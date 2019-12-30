@@ -1,0 +1,6 @@
+{
+  "name": "test-ttfb",
+  "region": "us-east-1",
+  "accelerated": true,
+  "url": "https://test-ttfb.s3.amazonaws.com"
+}

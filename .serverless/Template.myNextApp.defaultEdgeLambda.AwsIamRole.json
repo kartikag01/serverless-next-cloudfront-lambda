@@ -1,0 +1,12 @@
+{
+  "name": "eztxegl-bo204qi",
+  "arn": "arn:aws:iam::574237049017:role/eztxegl-bo204qi",
+  "service": [
+    "edgelambda.amazonaws.com",
+    "lambda.amazonaws.com"
+  ],
+  "policy": {
+    "arn": "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole"
+  },
+  "region": "us-east-1"
+}
